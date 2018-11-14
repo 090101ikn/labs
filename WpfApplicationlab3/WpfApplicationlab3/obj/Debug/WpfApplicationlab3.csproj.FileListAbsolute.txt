@@ -1,0 +1,1 @@
+c:\users\student\documents\visual studio 2015\Projects\WpfApplicationlab3\WpfApplicationlab3\bin\Debug\WpfApplicationlab3.exe.config
